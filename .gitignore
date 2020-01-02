@@ -1,0 +1,6 @@
+config.py
+StreamingHistory0.json
+sqlify-export.sql
+db.sqlite3
+.ipynb_checkpoints
+__pycache__
